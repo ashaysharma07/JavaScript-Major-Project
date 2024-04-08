@@ -1,2 +1,2 @@
-# JavaScript Major Project
-This my First Major Project Using JavaScript.
+# JavaScript Minor Project
+This my First Minor Project Using JavaScript.
