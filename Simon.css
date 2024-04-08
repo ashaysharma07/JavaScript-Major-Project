@@ -1,0 +1,66 @@
+h2{
+    font-weight: bolder;
+    text-align: center; 
+}
+
+h3{
+    font-weight: bold;
+    text-align: center;
+}
+
+.square{
+    text-align: center;
+}
+.Row1 {
+    display: flex ;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Row2{
+    display: flex ;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Red{
+   height: 100px;
+   width: 100px;
+   background-color: red;
+   border: 2px solid black;
+   margin: 1.5rem;
+   border-radius: 10%;
+}
+.Green{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border: 2px solid black;
+    margin: 1.5rem;
+    border-radius: 10%;
+ }
+
+ .Orange{
+    height: 100px;
+    width: 100px;
+    background-color: orangered;
+    border: 2px solid black;
+    margin: 1.5rem;
+    border-radius: 10%;
+ }
+ .Purple{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    border: 2px solid black;
+    margin: 1.5rem;
+    border-radius: 10%;
+ }
+
+ .gameflash {
+    background-color: white;
+ }
+
+ .userflash{
+    background-color: green;
+ }
